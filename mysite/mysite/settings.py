@@ -142,6 +142,6 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'djangolocalhost@gmail.com'
-EMAIL_HOST_PASSWORD = 'kidboo123'
+EMAIL_HOST_PASSWORD = '*********'
 # SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '776793855716-3fpbq1h8v9g336ubm3hoj1jpotjb59f5.apps.googleusercontent.com'
 # SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'EW9hEhoGhZllRKyZAFgvSANF'
